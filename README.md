@@ -67,26 +67,61 @@ Minha expertise abrange um leque diversificado de áreas, permitindo-me atuar de
 ## 🛠️ Tecnologias e Práticas - Domínio Essencial
 
 <p align="center">
-    [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-    [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-    [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-    [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-    [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-    [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-    [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-    [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-    [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-    [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-    [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-    [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-    [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-    [![Terraform](https://img.shields.io/badge/Terraform-7B42D2?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-    [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-    [![ITIL](https://img.shields.io/badge/ITIL-0066CC?style=for-the-badge&logo=itil&logoColor=white)](https://www.axelos.com/best-practice-solutions/itil)
-    [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://about.gitlab.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    </a>
+    <a href="https://streamlit.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    </a>
+    <a href="https://www.microsoft.com/windows/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    </a>
+    <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+    </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Terraform-7B42D2?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+    </a>
+    <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+    </a>
+    <a href="https://www.axelos.com/best-practice-solutions/itil" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/ITIL-0066CC?style=for-the-badge&logo=itil&logoColor=white" alt="ITIL">
+    </a>
+    <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+    </a>
 </p>
-
 ---
 
 ## 📁 Portfólio de Projetos e Repositórios - Uma Jornada em Código
