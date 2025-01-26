@@ -1,12 +1,10 @@
-# 🧑‍💻 Elias Andrade - Arquiteto de Soluções IA Multi-Agent | DevOps | Full Stack Python 🐍
+#  Elias Andrade - Especialsita em ITSM, infraestrutura e Arquiteto de Soluções IA Multi-Agent | DevOps | Full Stack Python 🐍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itilmgf/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaos4455)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/chaos4455)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaos4455/chaos4455/main/images/elias_andrade_banner.png" alt="Elias Andrade Banner" width="100%" />
-</p>
+![Screenshot_20240206-012427](https://github.com/user-attachments/assets/4feac77c-d9fc-4af2-b1b0-3a22d0b4e703)
 
 ---
 
@@ -451,6 +449,4 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habi
 
 Ficarei muito contente em explorar como posso contribuir para seus projetos e objetivos. Sinta-se à vontade para entrar em contato. Vamos construir o futuro juntos!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chaos4455/chaos4455/main/images/elias_andrade_footer.png" alt="Elias Andrade Footer" width="100%" />
-</p>
+
