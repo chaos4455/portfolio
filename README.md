@@ -72,14 +72,6 @@
 
 Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, soluções inovadoras em inteligência artificial, machine learning, visão computacional, DevOps e muito mais! 🚀  
 
-### 🌟 **O que você encontrará no meu canal?**
-- 🧠 **Soluções em IA Generativa e LLMs**  
-- 📊 **Automação e Análise de Dados**  
-- 🤖 **Chatbots Inteligentes e Copilots**  
-- 🖥️ **DevOps, CI/CD e Infraestrutura Cloud**  
-- 🎥 **Tutoriais Práticos e Demonstrações de Projetos**
-
----
 
 ### ⭐ **Inscreva-se e acompanhe!**  
 🔔 **Ative o sininho para receber notificações e ficar por dentro das atualizações dos meus projetos.**  
@@ -87,7 +79,12 @@ Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, 
 ### 🛑 **VISITE AGORA!**  
 [![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
 
-
+### 🌟 **O que você encontrará no meu canal?**
+- 🧠 **Soluções em IA Generativa e LLMs**  
+- 📊 **Automação e Análise de Dados**  
+- 🤖 **Chatbots Inteligentes e Copilots**  
+- 🖥️ **DevOps, CI/CD e Infraestrutura Cloud**  
+- 🎥 **Tutoriais Práticos e Demonstrações de Projetos**
 
 ---
 
