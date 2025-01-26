@@ -1,5 +1,4 @@
 #  Elias Andrade - Especialsita em ITSM, infraestrutura e Arquiteto de Soluções IA Multi-Agent | DevOps | Full Stack Python 🐍
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itilmgf/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaos4455)
@@ -67,6 +66,7 @@
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
     </a>
 </p>
+---
 
 # 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
 
