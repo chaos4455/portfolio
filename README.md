@@ -468,14 +468,6 @@ Confira meus projetos e modelos no Hugging Face, plataforma líder em IA e model
 
 ---
 
-## 🔗 Links Úteis - Conecte-se Comigo
-
-*   **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itilmgf/) [https://www.linkedin.com/in/itilmgf/](https://www.linkedin.com/in/itilmgf/)
-*   **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaos4455) [https://github.com/chaos4455](https://github.com/chaos4455)
-*   **Hugging Face:** [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/chaos4455) [https://huggingface.co/chaos4455](https://huggingface.co/chaos4455)
-
----
-
 ## 📜 Conclusão - Rumo ao Futuro da Tecnologia
 
 Este portfólio detalhado é um reflexo da minha jornada, paixão e dedicação à tecnologia. Cobre desde a infraestrutura essencial até as fronteiras da inteligência artificial, demonstrando a amplitude das minhas habilidades e a profundidade do meu conhecimento.
