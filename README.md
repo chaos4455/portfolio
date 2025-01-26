@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaos4455)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/chaos4455)
 
-![Screenshot_20240206-012427](https://github.com/user-attachments/assets/4feac77c-d9fc-4af2-b1b0-3a22d0b4e703)
+![chrome_43HPemceLQ](https://github.com/user-attachments/assets/c8a37d12-3e6f-4b76-9b1f-03ce3d91d7f4)
 
 ---
 
