@@ -1,5 +1,8 @@
 #  Elias Andrade - Especialsita em ITSM, infraestrutura e Arquiteto de Soluções IA Multi-Agent | DevOps | Full Stack Python 🐍
 
+![chrome_43HPemceLQ](https://github.com/user-attachments/assets/c8a37d12-3e6f-4b76-9b1f-03ce3d91d7f4)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itilmgf/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaos4455)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/chaos4455)
@@ -24,7 +27,6 @@ Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, 
 [![Visite meu canal no YouTube](https://img.shields.io/static/v1?label=Visite&message=Meu%20Canal%20no%20YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
 
 
-![chrome_43HPemceLQ](https://github.com/user-attachments/assets/c8a37d12-3e6f-4b76-9b1f-03ce3d91d7f4)
 
 ---
 
