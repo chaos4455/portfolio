@@ -7,9 +7,6 @@
 
 ![chrome_43HPemceLQ](https://github.com/user-attachments/assets/c8a37d12-3e6f-4b76-9b1f-03ce3d91d7f4)
 
-
-## 🛠️ Tecnologias e Práticas 
-
 <p align="center">
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -66,7 +63,6 @@
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
     </a>
 </p>
----
 
 # 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
 
