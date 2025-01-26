@@ -407,14 +407,6 @@ Projetos mais antigos e documentação de trajetória, demonstrando minha evolu�
 *   **[TrocaRosto-](https://github.com/chaos4455/TrocaRosto-) 🎭**
     > Projeto de IA de 2019 para troca de rostos (face swap) em imagens e vídeos, desenvolvido em Python. Demonstra meu interesse e exploração de IA desde cedo.
 
----
-
-## 🚀 Hugging Face - Explorando a Vanguarda da IA
-
-Confira meus projetos e modelos no Hugging Face, plataforma líder em IA e modelos de linguagem:
-
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/chaos4455)
-[https://huggingface.co/chaos4455](https://huggingface.co/chaos4455)
 
 ---
 
