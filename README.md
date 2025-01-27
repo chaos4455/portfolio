@@ -82,6 +82,14 @@ Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, 
 - 🖥️ **DevOps, CI/CD e Infraestrutura Cloud**  
 - 🎥 **Tutoriais Práticos e Demonstrações de Projetos**
 
+### Projetos DevOps Privados ⚙️🔒
+
+[![Status](https://img.shields.io/badge/Status-Concluído-green)](https://img.shields.io/badge/Status-Concluído-green)
+- 🚀 **[Projeto Konecty](https://github.com/chaos4455/Projeto-Konecty)**
+- 🛠️ **[Projeto Atak](https://github.com/chaos4455/Projeto-Atak)**
+- 🗺️ **[Roadmaps e Diagramas de Carreira 2025](https://github.com/chaos4455/Roadmaps-Diagramas-Carreira-2025)**
+
+
 ---
 
 ## 🚀 Visão Geral da Trajetória
