@@ -483,6 +483,15 @@ Projetos mais antigos e documentação de trajetória, demonstrando minha evolu�
 *   Embeddings Visualization
 *   Bias Detection and Mitigation
 
+
+![DevOps-Lifecycle](https://github.com/user-attachments/assets/7daa5d24-09f7-4efd-a640-096bdcba5812)
+
+![ai-life-cycle](https://github.com/user-attachments/assets/c13f2fe8-a0e5-4ca0-be1f-4256bc105328)
+
+![machine_learning_life_cycle](https://github.com/user-attachments/assets/7444288d-5a65-4551-95ea-4696dfb5ae9f)
+
+![png-clipart-itil-v3-2011-preparation-a-la-certification-itil-foundation-itil-v3-2011-principes-de-base-definitions-mots-clefs-itilv3-service-itil-framework-service-book](https://github.com/user-attachments/assets/d2d74e15-e23a-4cf4-8710-a369cfd49e69)
+
 ---
 
 ## 📜 Conclusão - Rumo ao Futuro da Tecnologia
