@@ -89,8 +89,6 @@ Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, 
 - 🛠️ **[Projeto Atk](https://github.com/chaos4455/Projeto-Atak)**
 - 🗺️ **[Roadmaps e Diagramas de Carreira 2025](https://github.com/chaos4455/Roadmaps-Diagramas-Carreira-2025)**
 
-
-
 ## 🚀 Visão Geral da Trajetória
 
 Sou um **Arquiteto de Soluções de Inteligência Artificial** com uma jornada de mais de uma década no universo da tecnologia. Minha paixão reside em **transformar desafios complexos em soluções inovadoras**, com um foco incansável em:
@@ -104,8 +102,6 @@ Minha experiência é vasta e multifacetada, abrangendo desde a **infraestrutura
 ## 🗂️ Repositório de Formulários: Auditoria & Fit 💙
 
 [![Repositório Forms](https://img.shields.io/badge/📁%20Acessar%20Forms-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=dodgerblue&logoWidth=20)](https://github.com/chaos4455/Forms)
-
-<br>
 
 ## 🎯 Áreas de Expertise em Detalhe
 
