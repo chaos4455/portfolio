@@ -90,7 +90,6 @@ Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, 
 - 🗺️ **[Roadmaps e Diagramas de Carreira 2025](https://github.com/chaos4455/Roadmaps-Diagramas-Carreira-2025)**
 
 
----
 
 ## 🚀 Visão Geral da Trajetória
 
@@ -107,7 +106,6 @@ Minha experiência é vasta e multifacetada, abrangendo desde a **infraestrutura
 [![Repositório Forms](https://img.shields.io/badge/📁%20Acessar%20Forms-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=dodgerblue&logoWidth=20)](https://github.com/chaos4455/Forms)
 
 <br>
----
 
 ## 🎯 Áreas de Expertise em Detalhe
 
