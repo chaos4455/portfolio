@@ -107,15 +107,6 @@ Minha experiência é vasta e multifacetada, abrangendo desde a **infraestrutura
 [![Repositório Forms](https://img.shields.io/badge/📁%20Acessar%20Forms-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=dodgerblue&logoWidth=20)](https://github.com/chaos4455/Forms)
 
 <br>
-
-Este repositório centraliza formulários essenciais para **auditoria**, **fit cultural** e **alinhamento estratégico** entre profissionais e empresas.  Utilize estes forms para garantir o melhor encaixe e compreensão mútua!
-
-**Acesse o repositório completo** [clicando aqui](https://github.com/chaos4455/Forms) e explore todos os formulários disponíveis! 👇
-
-[![Ir para o Repositório](https://img.shields.io/badge/🚀%20Ir%20para%20o%20Repo-dodgerblue?style=flat-square&logo=github&logoColor=white)](https://github.com/chaos4455/Forms)
-
----
-
 ---
 
 ## 🎯 Áreas de Expertise em Detalhe
