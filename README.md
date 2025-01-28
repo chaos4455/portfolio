@@ -67,6 +67,8 @@
 
 <img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/7bea9a53-e947-4f82-ad3b-343fca76bc60" />
 
+<img width="899" alt="ImageGlass_H6LReBA9mz" src="https://github.com/user-attachments/assets/2ec5242a-59c9-4cc6-a3e1-b77fe59700b1" />
+
 
 # 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
 
