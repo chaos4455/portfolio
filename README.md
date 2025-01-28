@@ -63,6 +63,10 @@
 
 ![chrome_43HPemceLQ](https://github.com/user-attachments/assets/c8a37d12-3e6f-4b76-9b1f-03ce3d91d7f4)
 
+![Image January 26, 2025 - 11 36PM](https://github.com/user-attachments/assets/829eb54f-b4c2-4e82-b19e-90b305122d25)
+
+<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/7bea9a53-e947-4f82-ad3b-343fca76bc60" />
+
 
 # 🎥 **Portfólio no YouTube** - [Elias Andrade LLM](https://www.youtube.com/@eliasandradeLLM) 🌟  
 
