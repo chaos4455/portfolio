@@ -93,6 +93,7 @@ Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, 
 [![Status](https://img.shields.io/badge/Status-Concluído-green)](https://img.shields.io/badge/Status-Concluído-green)
 - 🚀 **[Projeto Kncty](https://github.com/chaos4455/Projeto-Konecty)**
 - 🛠️ **[Projeto Atk](https://github.com/chaos4455/Projeto-Atak)**
+🩺 **[Projeto Medicinal - ADM de Redes (2019-2023)](https://github.com/chaos4455/ADM-Redes-Medicinal)**  
 - 🗺️ **[Roadmaps e Diagramas de Carreira 2025](https://github.com/chaos4455/Roadmaps-Diagramas-Carreira-2025)**
 
 ## 🚀 Visão Geral da Trajetória
