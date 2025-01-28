@@ -65,7 +65,7 @@
 
 ![Image January 26, 2025 - 11 36PM](https://github.com/user-attachments/assets/829eb54f-b4c2-4e82-b19e-90b305122d25)
 
-<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/7bea9a53-e947-4f82-ad3b-343fca76bc60" />
+<img width="1442" alt="ImageGlass_gLhTSusu4P" src="https://github.com/user-attachments/assets/2483e310-5232-4326-a0b1-e210ad84d262" />
 
 <img width="899" alt="ImageGlass_H6LReBA9mz" src="https://github.com/user-attachments/assets/2ec5242a-59c9-4cc6-a3e1-b77fe59700b1" />
 
