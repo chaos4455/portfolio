@@ -72,6 +72,170 @@
 
 Te convido a conhecer o meu **canal no YouTube**, onde apresento meus projetos, soluções inovadoras em inteligência artificial, machine learning, visão computacional, DevOps e muito mais! 🚀  
 
+### 🔧 **Principais Tecnologias e Habilidades:**
+
+#### **Distribuições Linux:**
+- **Ubuntu:** 
+  ![Ubuntu 10](https://img.shields.io/badge/Ubuntu-10-blue)
+  ![Ubuntu 14](https://img.shields.io/badge/Ubuntu-14-blue)
+  ![Ubuntu 16](https://img.shields.io/badge/Ubuntu-16-blue)
+  ![Ubuntu 18](https://img.shields.io/badge/Ubuntu-18-blue)
+  ![Ubuntu 20](https://img.shields.io/badge/Ubuntu-20-blue)
+  ![Ubuntu 22](https://img.shields.io/badge/Ubuntu-22-blue)
+- **Debian:** 
+  ![Debian 7](https://img.shields.io/badge/Debian-7-blue)
+  ![Debian 8](https://img.shields.io/badge/Debian-8-blue)
+  ![Debian 9](https://img.shields.io/badge/Debian-9-blue)
+  ![Debian 10](https://img.shields.io/badge/Debian-10-blue)
+  ![Debian 11](https://img.shields.io/badge/Debian-11-blue)
+- **CentOS:** 
+  ![CentOS 7](https://img.shields.io/badge/CentOS-7-blue)
+  ![CentOS 8](https://img.shields.io/badge/CentOS-8-blue)
+
+#### **Gerenciamento e Configuração:**
+- **Acesso Remoto:** 
+  ![SSH](https://img.shields.io/badge/SSH-Enabled-brightgreen)
+  ![VNC](https://img.shields.io/badge/VNC-Enabled-brightgreen)
+- **Orquestração de Configuração:** 
+  ![Ansible](https://img.shields.io/badge/Ansible-Experienced-orange)
+  ![Puppet](https://img.shields.io/badge/Puppet-Experienced-orange)
+- **Gerenciamento de Firewall:** 
+  ![UFW](https://img.shields.io/badge/UFW-Experienced-orange)
+
+#### **Serviços e Funções em Windows Server:**
+- **Active Directory:** 
+  ![Active Directory](https://img.shields.io/badge/Active_Directory-Configured_and_Managed-yellow)
+- **DNS:** 
+  ![DNS](https://img.shields.io/badge/DNS-Zones_and_Name_Resolution-green)
+- **DHCP:** 
+  ![DHCP](https://img.shields.io/badge/DHCP-Configured_and_Managed-green)
+- **File Server:** 
+  ![File Server](https://img.shields.io/badge/File_Server-Configured_and_Managed-green)
+- **Terminal Services:** 
+  ![Terminal Services](https://img.shields.io/badge/Terminal_Services-Implemented_and_Managed-blue)
+- **PowerShell:** 
+  ![PowerShell](https://img.shields.io/badge/PowerShell-Scripting_and_Automation-blue)
+
+## 🛠️ **Habilidades de Scripting e Automação:**
+- **Bash Scripting:** Automação de tarefas no Linux
+- **PowerShell:** Scripting para gerenciamento em Windows
+
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+---
+
+### 🛠️ Habilidades e Competências
+
+- **Administração de Redes** ![Administração de Redes](https://img.shields.io/badge/Networking-Expert-3DDC84?style=flat-square&logo=network-wired)  
+  Experiência em configuração, monitoramento e manutenção de redes de dados, garantindo segurança 🔐 e desempenho.
+
+- **Infraestrutura de TI** ![Infraestrutura de TI](https://img.shields.io/badge/Infrastructure-Advanced-FFBB33?style=flat-square&logo=cloud)  
+  Profundo entendimento de ambientes de TI, incluindo servidores, storage e soluções em nuvem. Capacidade de implementar e gerenciar infraestrutura para suportar aplicações críticas.
+
+- **DevOps e Automação** ![DevOps](https://img.shields.io/badge/DevOps-Expert-FF5500?style=flat-square&logo=dev)  
+  Especialização em práticas de DevOps, incluindo integração e entrega contínuas (CI/CD) 🔁, automação de tarefas com ferramentas como **Ansible**, **Terraform** e **Docker**.
+
+- **Desenvolvimento de Software** ![Python](https://img.shields.io/badge/Python-BackEnd%20&%20FullStack-1DA1F2?style=flat-square&logo=python)  
+  Habilidade em desenvolvimento back-end e full stack utilizando **Python**, **Flask**, **Django** e tecnologias de microserviços. Compreensão de princípios de **Domain-Driven Design (DDD)** e **Clean Architecture**.
+
+- **Gerenciamento de Projetos** ![Gerenciamento de Projetos](https://img.shields.io/badge/Project%20Management-Intermediate-00BFFF?style=flat-square&logo=project-diagram)  
+  Experiência na condução de projetos de TI do início ao fim, incluindo levantamento de requisitos, planejamento, execução e monitoramento.
+
+- **Suporte Técnico** ![Suporte Técnico](https://img.shields.io/badge/Technical%20Support-Expert-FF007F?style=flat-square&logo=headset)  
+  Vasta experiência em suporte técnico e help desk, garantindo a satisfação do cliente e a resolução eficiente de problemas.
+
+---
+
+### 📅 Trajetória Profissional
+
+#### **2010 - 2017: Suporte Técnico e Help Desk** 
+🔹 Minha jornada na área de TI começou em **2010**, quando atuei em **suporte técnico** e **help desk**. Durante esses primeiros anos, desenvolvi habilidades essenciais, incluindo:
+
+- **Atendimento ao Cliente**: Aprimorei minha capacidade de comunicação e resolução de problemas, proporcionando suporte técnico para usuários finais e equipes de TI.
+- **Gestão de Incidentes**: Trabalhei em gestão de chamados, documentação e resolução de incidentes, utilizando ferramentas de ticketing para monitorar e acompanhar as solicitações.
+- **Infraestrutura Básica**: Comecei a adquirir conhecimentos básicos sobre redes, servidores e segurança da informação, criando uma base sólida para minha futura carreira em infraestrutura.
+
+#### **2013 - 2017: Evolução em Infraestrutura**
+🔹 A partir de **2013**, comecei a me aprofundar em **infraestrutura de TI**, participando de cursos e treinamentos focados em:
+
+- **Redes e Segurança**: Estudei conceitos de redes, protocolos e segurança, o que me permitiu entender melhor como funcionam os ambientes de TI.
+- **Administração de Sistemas**: Ganhei experiência prática com sistemas operacionais Windows e Linux 🐧, aprendendo sobre administração e manutenção de servidores.
+- **Suporte Avançado**: Assumi responsabilidades adicionais, oferecendo suporte técnico em níveis mais altos, incluindo diagnósticos e correções de problemas em ambientes mais complexos.
+
+#### **2018: Especialização em Infraestrutura, Python e DevOps**
+🔹 Em **2018**, decidi intensificar meus estudos em **infraestrutura** e **tecnologias emergentes**:
+
+- **Docker e Kubernetes**: Iniciei meu aprendizado em **Docker** 🐳 e **Kubernetes** ☸️, compreendendo os conceitos de contêineres e orquestração, o que se tornou fundamental para minha transição para DevOps.
+- **Python**: Comecei a estudar Python, entendendo suas aplicações em automação e desenvolvimento de scripts para tarefas repetitivas, aumentando minha eficiência operacional.
+- **DevOps**: Comecei a adotar práticas de **DevOps**, aplicando conceitos de integração e entrega contínua em pequenos projetos pessoais.
+
+#### **2019 - 2023: Administração de Redes e Prática em DevOps**
+🔹 De **2019** até **2023**, atuei como **Administrador de Redes**, onde:
+
+- **Gestão de Infraestrutura**: Assumi a administração de redes complexas, garantindo a conectividade e a segurança dos sistemas de informação.
+- **Projetos de Automação**: Trabalhei em pequenos projetos de automação utilizando **Ansible** 🤖 e **Terraform**, melhorando processos de provisionamento e configuração.
+- **Desenvolvimento de Scripts**: Utilizei Python para desenvolver scripts de automação, integrando soluções que otimizavam tarefas administrativas e operacionais.
+- **Estudo Contínuo**: Continuei a estudar e praticar conceitos de **DevOps**, como CI/CD, aplicando-os em ambientes de produção e melhorando a eficiência operacional.
+
+#### **2023 - Presente: Foco em Arquitetura de Sistemas e Desenvolvimento**
+🔹 De **final de 2023** até agora (setembro de 2024), dediquei-me integralmente ao estudo e à prática em **arquitetura de sistemas**, **Python**, **back-end**, **full stack** e **microserviços**:
+
+- **Desenvolvimento de Back-end e Full Stack**: Aprofundei meus conhecimentos em desenvolvimento back-end e full stack, utilizando frameworks como **Flask** e **Django**, e implementando projetos com arquiteturas limpas e práticas de **Domain-Driven Design (DDD)**.
+- **Microserviços e Clean Architecture**: Estudei e implementei padrões de arquitetura de microserviços e clean architecture em projetos, focando na escalabilidade e manutenibilidade.
+- **Integração Contínua e Deploy**: Trabalhei em soluções de CI/CD, utilizando **GitHub Actions** ⚙️ e **Jenkins** 🏗️ para automatizar o processo de integração e entrega de software.
+- **Colaboração e Trabalho em Equipe**: Participei de projetos colaborativos, trabalhando em equipe para desenvolver soluções que atendem a requisitos complexos e diversos.
+
+---
+
+### 🧑‍💻 Resumo Profissional
+**Elias Andrade**  
+*Administrador de Redes e Infraestrutura | DevOps | Arquiteto de Soluções Python | Desenvolvedor Back-end e Full Stack Python*  
+*📍 Remoto*
+
+Com mais de **14 anos** de experiência contínua na área de infraestrutura de TI, minha expertise abrange **administração de redes**, **sistemas Linux** e **práticas DevOps**. Desde 2023, intensifiquei meu foco em **DevOps**, **GitOps**, **Application Delivery**, **Docker Orchestration** e **Kubernetes**.
+
+💻 **Competências em Desenvolvimento:**
+- **Back-end** com Python utilizando frameworks como **Flask** e **Django**.
+- Desenvolvimento de **APIs RESTful** e **microserviços** escaláveis.
+- Integração com bancos de dados relacionais e não relacionais (MySQL, PostgreSQL, MongoDB).
+
+🚀 **Competências em Infraestrutura:**
+- Orquestração e provisionamento de ambientes on-premise e em nuvem, utilizando soluções como **Google Cloud VPC**, **GKE**, **AWS EC2**, **EKS** e **Digital Ocean**.
+- Ferramentas de automação e integração contínua como **Terraform**, **Ansible**, **Docker**, **Kubernetes**, **GitHub Actions** e **Jenkins**.
+
+🔒 **Segurança e Melhores Práticas:**
+Meu trabalho é fundamentado nas metodologias **DevOps**, **AIOps**, **GitOps** e **DevSecOps**, garantindo processos contínuos de integração, entrega e segurança. Antes de migrar completamente para a área de DevOps, atuei em ambientes variados, desde pequenas empresas até grandes corporações, adquirindo um conhecimento diversificado e uma abordagem versátil para resolver desafios complexos de TI.
+
+---
+
+### 🛠️ Experiência Profissional
+
+**Konecty**  - *Projeto PJ*  
+**Projeto Freelancer:** Analista DevOps (Remoto) 
+**Período:** 03/2024 - 05/2024 (2 meses)  
+
+- **Operação com Microserviços:** Gerenciamento de mais de **150 microserviços** em ambientes **Docker** e **Kubernetes** distribuídos nas nuvens **Google Cloud**, **AWS** e **Digital Ocean**.
+- **Automação com GitOps:** Implementação de práticas de automação utilizando **GitHub Actions**, com construção de imagens Docker no **DockerHub** e integração contínua via **GitLab**.
+- **Implantação de Ambientes para IA:** Configuração de ambientes para execução de IA, utilizando LLMS como **Llama3** com **Ollama**, **Google Gemini API** e **ChatGPT API**.
+- **Monitoramento e Observabilidade:** Implantação de soluções de monitoramento e observabilidade com **Grafana** e **Loki**, além de monitoramento de infraestrutura com **Zabbix** e **Docker Swarm** via **Swarmpit**.
+- **Migração de Microserviços:** Realização da migração de microserviços do ambiente Docker para Kubernetes, assegurando a continuidade e eficiência operacional.
+
+---
+
+**Medicinal Farmácia de Manipulação**  
+**Cargo:** Administrador de Redes  
+**Período:** 02/2019 - 10/2023 (4 anos e 8 meses)  
+
+- **Administração de Redes:** Gestão completa de ambientes Windows e Linux, incluindo **Windows Server 2008** e **2012**, **Dell Optiplex**, e **VMware**.
+- **Active Directory e GPO:** Administração do Active Directory, gerenciamento de GPO, Print Server, DNS, Terminal Services e File Server.
+- **Documentação Técnica:** Criação de manuais técnicos e operacionais, controle de ativos de TI, inventários, garantias e licenças.
+- **Suporte Técnico:** Fornecimento de suporte técnico Nível 1, gestão de chamados e criação de usuários com controle de acessos.
+- **Segurança da Informação:** Desenvolvimento e implementação de SGSI e Políticas de Segurança alinhadas à **ISO 27001**, além de boas práticas de gestão e governança (ITIL, ISO 20000).
+- **Ambiente Desktop e Linux:** Administração de desktops corporativos, automação de rotinas com **Puppet Bolt**, **Shell Scripts** e **PowerShell**.
+- **Laboratório de Testes:** Deploy de servidores virtuais em laboratório de testes utilizando **Hyper-V**, além de gestão e documentação de ativos.
+- **Suporte a ERP:** Monitoramento do ambiente ERP via **Zabbix**, incluindo suporte e administração do sistema.
+
 
 ### ⭐ **Inscreva-se e acompanhe!**  
 🔔 **Ative o sininho para receber notificações e ficar por dentro das atualizações dos meus projetos.**  
